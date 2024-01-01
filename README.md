@@ -1,13 +1,13 @@
-Count of files in folder for Linux.
+Count of files in target directory for Linux.
 
 possible arguments:
 
 fcount arg1 arg2
 
-arg1 - (required) path to folder.
+arg1 - (required) path to directory.
 
 arg2 - (non required) number of files for take away from total count.
 
 OUTPUT:
 
-Total qty of files ( counted qty - arg2)
+Total qty of files in target (arg1) directory (counted qty - arg2)
