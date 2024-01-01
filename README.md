@@ -1,4 +1,4 @@
-Count of files in folder.
+Count of files in folder for Linux.
 
 possible arguments:
 
