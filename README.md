@@ -8,5 +8,6 @@ arg1 - (required) path to folder.
 
 arg2 - (non required) number of files for take away from total count.
 
-OUTPUT:\n
+OUTPUT:
+
 Total qty of files ( qty - arg2)
