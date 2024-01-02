@@ -3,7 +3,7 @@
 *fcount* program wrote on C++ for counting files in target directory.
 It's returns total quantity of files. You can correct total quantity by argument for taking off some files from counting process. 
 
-> ** This version of *fcount* work just with Linux based OS **
+> ** This version of *fcount* works just with Linux based OS **
 >
 > For Windows OS use *wfcount* (see repository /wfcount)
 >
