@@ -10,4 +10,4 @@ arg2 - (non required) number of files for take away from total count.
 
 OUTPUT:
 
-Total qty of files in target (arg1) directory (counted qty - arg2)
+NUMBER - Total qty of files in target (arg1) directory (counted qty - arg2)
